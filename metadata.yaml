@@ -1,0 +1,25 @@
+_repo: Great-Fortunes-from-Railroads_6495
+creator:
+  author:
+    agent_name: Myers, Gustavus
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '2070'
+    url: http://www.gutenberg.org/2009/agents/2070
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- United States -- History -- 19th century'
+- !lcsh 'Businessmen -- United States -- History -- 19th century'
+- !lcc 'HC'
+- !lcsh 'United States -- Economic conditions -- 19th century'
+- !lcsh 'Wealth -- United States -- History -- 19th century'
+title: Great Fortunes from Railroads
+url: http://www.gutenberg.org/ebooks/6495
